@@ -1,7 +1,7 @@
 {
   "titleid": "PPSA96024",
   "name": "Chiral-FTP",
-  "kind": "app",
+  "kind": "tool",
   "category": "utilities",
   "description": "File manager, FTP server, FTP/SFTP client and browser web app for the PS5, with Quick connect to chiral-ftp on your Switch, Mac, Windows or Linux.",
   "license": "GPL-3.0",
